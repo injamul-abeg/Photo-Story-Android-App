@@ -1,0 +1,14 @@
+
+    <resources>
+        <string name="app_name">Photo Story</string>
+        <string name="PhotoStory1">My dearest cat.</string>
+        <string name="PhotoStory2">Rainy dhaka city.</string>
+        <string name="PhotoStory3">Saint Martins Island.</string>
+        <string name="PhotoStory4">Bangshi river bank, Nama bazar, Savar.</string>
+        <string name="PhotoStory5">Winter celebration in Jahangirnagar University.</string>
+        <string name="PhotoStory6">Portrait of Bruce.</string>
+        <string name="PhotoStory7">Afternoon fruits.</string>
+        <string name="PhotoStory8">Cloudy Switzerland in Jahanirnagar University.</string>
+        <string name="PhotoStory9">Winter leaves.</string>
+        <string name="PhotoStory10">Mosquitoes like flying stars.</string>
+    </resources>
